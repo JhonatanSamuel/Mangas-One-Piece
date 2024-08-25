@@ -72,7 +72,7 @@ export const H3 = styled.h3 `
     color: 	rgba(205,92,92);
 
     @media (max-width: 480px) {
-        font-size: 33px;
+        font-size: 29px;
     }
 `
 
@@ -102,10 +102,6 @@ export const LinkS = styled(Link)  `
     text-decoration: none;
     color: 	rgba(205,92,92);
     font-weight: bold;
-
-    @media (max-width: 480px) {
-
-    }
     
 `
 
@@ -116,7 +112,7 @@ export const StyledLink = styled(Link)  `
     font-weight: bold;
 
     @media (max-width: 480px) {
-        font-size: 35px;
+        font-size: 30px;
     }
 
 `
