@@ -72,7 +72,7 @@ export const H3 = styled.h3 `
     color: 	rgba(205,92,92);
 
     @media (max-width: 480px) {
-        font-size: 29px;
+        font-size: 25px;
     }
 `
 
