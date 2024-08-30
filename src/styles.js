@@ -19,7 +19,7 @@ export const ImgLuffy = styled.img `
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.5; 
+    opacity: 0.2; 
     z-index: -1; 
 
     @media (max-width: 480px) {
@@ -108,7 +108,7 @@ export const LinkS = styled(Link)  `
 export const StyledLink = styled(Link)  `
     text-decoration: none;
     font-size: 40px;
-    color: rgba(0, 0, 0);
+    color: 	rgba(28,28,28);
     font-weight: bold;
 
     @media (max-width: 480px) {
@@ -190,6 +190,14 @@ export const LinkNext = styled(Link)  `
     padding: 15px;
     font-size: 20px;
   }
+`
+
+export const P = styled.p `
+    font-size: 22px;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.4);
+
+
 `
 
 
