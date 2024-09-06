@@ -23,6 +23,9 @@ import Manga1121 from "./pages/Manga-1121";
 import Manga1122 from "./pages/Manga-1122";
 import Manga1123 from "./pages/Manga-1123";
 import Manga1124 from "./pages/Manga-1124";
+import Manga1125 from "./pages/Manga-1125";
+
+import { useState } from 'react';
 
 function App() {
   return (
@@ -51,6 +54,7 @@ function App() {
         <Route path="/manga1122" element={<Manga1122 />} />
         <Route path="/manga1123" element={<Manga1123 />} />
         <Route path="/manga1124" element={<Manga1124 />} />
+        <Route path="/manga1125" element={<Manga1125 />} />
 
       </Routes>
       

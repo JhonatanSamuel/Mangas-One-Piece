@@ -102,6 +102,10 @@ export const LinkS = styled(Link)  `
     text-decoration: none;
     color: 	rgba(205,92,92);
     font-weight: bold;
+
+    Link:visited {
+        color: #fff;
+    }
     
 `
 
@@ -110,6 +114,9 @@ export const StyledLink = styled(Link)  `
     font-size: 40px;
     color: 	rgba(28,28,28);
     font-weight: bold;
+
+    
+   
 
     @media (max-width: 480px) {
         font-size: 30px;
@@ -129,6 +136,7 @@ export const StyledManga = styled(Link)  `
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Propriedade de sombra */
     transition: box-shadow 0.1s ease; /* Para suavizar a transição da sombra */
 
+
     &:hover {
     background-color: rgba(135,206,250, 0.7);
     }
@@ -143,6 +151,7 @@ export const Li = styled.li `
     list-style: none;
     font-size: 30px;
     margin-top: 20px;
+
 
     &:hover {
     background-color: rgba(135,206,250, 0.2);
@@ -197,7 +206,15 @@ export const P = styled.p `
     display: inline-block;
     color: rgba(0, 0, 0, 0.4);
 
+`
 
+export const CapNovo = styled.p `
+    font-size: 22px;
+    display: inline-block;
+    color:  rgba(28,28,28);
+    background-color: 	rgba(205,92,92);
+    border-radius: 10px;
+    padding: 5px;
 `
 
 

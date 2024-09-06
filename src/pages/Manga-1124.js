@@ -15,7 +15,7 @@ import cap11 from './../assets/1124/1124 - 11.jpg'
 import { Link } from 'react-router-dom';
 import { Li, DivNext, LinkNext, DivImgLuffy, ImgLuffy} from '../styles';
 import onePiece from './../assets/onepiece-logo.jpg'
-// import Manga1116 from './Manga-1116';
+import Manga1125 from './Manga-1125';
 import Manga1123 from './Manga-1123';
 
 function Manga1124() {
@@ -41,7 +41,7 @@ function Manga1124() {
       <div>
             <DivNext>
                 <Li><LinkNext to="/Manga1123">Voltar</LinkNext></Li>
-                {/* <Li><LinkNext to="/Manga1117">Próximo</LinkNext></Li> */}
+                <Li><LinkNext to="/Manga1125">Próximo</LinkNext></Li>
             </DivNext>
       </div>
 
