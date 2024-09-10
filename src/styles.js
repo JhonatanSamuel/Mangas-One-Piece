@@ -210,6 +210,10 @@ export const P = styled.p `
     display: inline-block;
     color: rgba(0, 0, 0, 0.4);
 
+    @media (max-width: 480px) {
+    display: block;
+  }
+
 `
 
 export const CapNovo = styled.p `
