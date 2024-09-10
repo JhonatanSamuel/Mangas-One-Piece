@@ -19,7 +19,7 @@ function Mangas() {
 
         <Ul>
 
-            <Li><StyledLink to="/Manga1125"><CapNovo>Cap. Novo</CapNovo>  Capítulo 1125 - NO QUE CONSISTE A MORTE?<P> 06/09/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1125"><CapNovo>Novo</CapNovo>  Capítulo 1125 - NO QUE CONSISTE A MORTE?<P> 06/09/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1124">Capítulo 1124 - MELHOR AMIGO    <P>{data}</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1123">Capítulo 1123 - A LACUNA DE DUAS SEMANAS    <P>{data}</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1122">Capítulo 1122 - NO MOMENTO CERTO!    <P>{data}</P></StyledLink></Li>

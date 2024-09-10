@@ -119,7 +119,9 @@ export const StyledLink = styled(Link)  `
    
 
     @media (max-width: 480px) {
-        font-size: 30px;
+        display: inline-block;
+        font-size: 17px;
+        font-weight: bold;
     }
 
 `
@@ -160,6 +162,8 @@ export const Li = styled.li `
   &:active {
     opacity: 0.7;
   }
+
+
 `
 
 export const DivNext = styled.ul `
