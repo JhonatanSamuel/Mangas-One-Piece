@@ -19,7 +19,8 @@ function Mangas() {
 
         <Ul>
 
-            <Li><StyledLink to="/Manga1126"><CapNovo>Novo</CapNovo> Capítulo 1126 - ASSUMIR A RESPONSABILIDADE<P> 14/09/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1127"><CapNovo>Novo</CapNovo> Capítulo 1127 - AVENTURA NO PAÍS DOS MISTÉRIOS<P> 23/09/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1126">Capítulo 1126 - ASSUMIR A RESPONSABILIDADE<P> 14/09/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1125">Capítulo 1125 - NO QUE CONSISTE A MORTE?<P> 06/09/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1124">Capítulo 1124 - MELHOR AMIGO    <P>{data}</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1123">Capítulo 1123 - A LACUNA DE DUAS SEMANAS    <P>{data}</P></StyledLink></Li>
