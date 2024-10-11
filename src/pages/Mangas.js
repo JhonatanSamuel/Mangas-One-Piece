@@ -19,7 +19,9 @@ function Mangas() {
 
         <Ul>
 
-            <Li><StyledLink to="/Manga1127"><CapNovo>Novo</CapNovo> Capítulo 1127 - AVENTURA NO PAÍS DOS MISTÉRIOS<P> 23/09/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1129"><CapNovo>Novo</CapNovo> Capítulo 1129 - BONECOS VIVOS<P> 11/10/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1128"><CapNovo>Novo</CapNovo> Capítulo 1128 - RPG<P> 04/10/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1127">Capítulo 1127 - AVENTURA NO PAÍS DOS MISTÉRIOS<P> 23/09/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1126">Capítulo 1126 - ASSUMIR A RESPONSABILIDADE<P> 14/09/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1125">Capítulo 1125 - NO QUE CONSISTE A MORTE?<P> 06/09/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1124">Capítulo 1124 - MELHOR AMIGO    <P>{data}</P></StyledLink></Li>
