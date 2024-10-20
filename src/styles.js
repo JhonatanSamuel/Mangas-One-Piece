@@ -209,7 +209,7 @@ export const P = styled.p `
     font-size: 22px;
     display: inline-block;
     color: rgba(0, 0, 0, 0.4);
-
+    margin-left: 20px;
 
 
 `
