@@ -19,7 +19,8 @@ function Mangas() {
 
         <Ul>
 
-            <Li><StyledLink to="/Manga1131"><CapNovo>Novo</CapNovo> Capítulo 1131 - LOKI DO SUBMUNDO<P> 12/11/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1131">Capítulo 1132 - AVENTURA NA TERRA DE ELBAPH!<P> 29/11/2024</P></StyledLink></Li>
+            <Li><StyledLink to="/Manga1131">Capítulo 1131 - LOKI DO SUBMUNDO<P> 12/11/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1130">Capítulo 1130 - O PRÍNCIPE DAS MALDIÇÕES<P> 18/10/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1129">Capitulo 1129 - BONECOS VIVOS<P> 11/10/2024</P></StyledLink></Li>
             <Li><StyledLink to="/Manga1128">Capítulo 1128 - RPG<P> 04/10/2024</P></StyledLink></Li>
